@@ -4,9 +4,7 @@ A simple static portfolio website showcasing my projects, skills, and contact in
 
 ## Projects
 
-- **House Price Prediction**: machine learning model built with Python. [Repo](https://github.com/kunalcreates/House-Price-Prediction-)
-- **Resume Builder**: web app for creating resumes. [Repo](https://github.com/kunalcreates/Resume-Builder)
-- **Survey**: web app for creating and taking surveys. [Repo](https://github.com/kunalcreates/Survey-)
+- **Personal Portfolio**: this website. [Repo](https://github.com/kunalcreates/Personal-portfolio)
 
 ## Tech Stack
 
